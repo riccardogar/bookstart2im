@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:title" content="Find Book" />
+    <meta property="og:description" content="Find new books by category" />
+    <meta property="og:image" content="img/library.png" />
+    <meta property="og:url" content="damodificare" />
+    <meta property="og:type" content="website" />
+    <title>Find book</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <img id="background" src="img/library.jpg" alt="background" />
+
+    <header>
+      <h1>Choose your category!</h1>
+    </header>
+    <main>
+      <form class="form">
+        <input type="text" id="testo" name="testo" placeholder="fantasy" />
+        <button type="submit">Submit</button>
+      </form>
+      <div id="books-container"></div>
+    </main>
+    <footer>
+      <p>&copy; 2024 | Find Book</p>
+    </footer>
+    <script type="module" src="dist/bundle.js"></script>
+  </body>
+</html>
