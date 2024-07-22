@@ -18,8 +18,6 @@ Upon clicking a submit button, the application contacts the Open Library API: ht
 After retrieving the book list, the application displays the title and list of authors for each book.
 Clicking on a book or a dedicated button reveals the book's description. This functionality is implemented by contacting another Open Library API using the book's key from the previous response.
 
-This is a screenshot ![screenshot](https://github.com/riccardogar/bookstart2im/assets/136090142/886744aa-a469-40f2-a129-417f70e7904a)
-
 
 **Technologies Used**
 
@@ -44,4 +42,3 @@ Click the "Submit" button or press Enter.
 Browse through the list of books displayed.
 Click the "Description" button on any book to view its description.
 
-This is a screenshot ![screenshot](https://github.com/riccardogar/bookstart2im/assets/136090142/886744aa-a469-40f2-a129-417f70e7904a)
