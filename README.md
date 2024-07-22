@@ -1,13 +1,16 @@
 **Find Book**
+
 Find Book is a web application that encourages reading by allowing users to discover new books based on categories. This project was developed as part of the Start2Impact curriculum to apply JavaScript knowledge in a practical context.
 This is a screenshot of the project ![screenshot](https://github.com/riccardogar/bookstart2im/assets/136090142/886744aa-a469-40f2-a129-417f70e7904a)
 
 Instead you can try the application here: https://searchbookstart2impact.netlify.app/
 
 **Project Objective**
+
 The goal of this Start2Impact project was to put JavaScript knowledge into practice by developing an application that encourages book reading through the external Open Library service.
 
 **Technical Requirements**
+
 The application meets the following technical requirements:
 
 It features a simple textbox (Google style) allowing users to search for books in a specific category.
