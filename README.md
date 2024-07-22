@@ -21,10 +21,10 @@ Clicking on a book or a dedicated button reveals the book's description. This fu
 
 **Technologies Used**
 
-HTML5
-CSS3
-JavaScript (ES6+)
-Axios for HTTP requests
+HTML5-
+CSS3-
+JavaScript (ES6+)-
+Axios for HTTP requests-
 Lodash for utility functions
 
 **Features**
